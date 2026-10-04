@@ -92,4 +92,5 @@ Python, TensorFlow/Keras, PyTorch, Hugging Face Transformers, PEFT (LoRA), NLTK,
 
 ## Authors
 Aditi, Aditi Chhikara, Ananya Kumar, Archita Gupta
-Supervised by Dr. Jagrati Singh, Assistant Professor, CSE, IGDTUW.
+
+- Supervised by Dr. Jagrati Singh, Assistant Professor, CSE, IGDTUW.
