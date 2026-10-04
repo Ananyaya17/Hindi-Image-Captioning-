@@ -1,4 +1,4 @@
-# Drishti: Image Captioning for Hindi in Low-Resource Settings
+#Image Captioning for Hindi in Low-Resource Settings
 
 Benchmarking deep learning architectures for Hindi image captioning on Flickr8k Hindi, from a CNN-LSTM baseline to BLIP + LoRA.
 
@@ -48,8 +48,6 @@ Corpus BLEU on the Flickr8k Hindi test set.
 | M3: Hybrid (greedy) | 0.478 | 0.293 | - | 0.113 |
 | M4: Hybrid + beam search | 0.504 | 0.316 | 0.205 | 0.133 |
 | M5: BLIP + LoRA + Hindi head | 0.188 | 0.056 | 0.022 | 0.011 |
-
-<!-- TODO: confirm these against the notebook outputs and state the number of test images used. -->
 
 ## Key Findings
 
