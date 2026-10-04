@@ -1,4 +1,4 @@
-#Image Captioning for Hindi in Low-Resource Settings
+## Image Captioning for Hindi in Low-Resource Settings
 
 Benchmarking deep learning architectures for Hindi image captioning on Flickr8k Hindi, from a CNN-LSTM baseline to BLIP + LoRA.
 
