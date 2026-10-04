@@ -28,13 +28,14 @@ All TensorFlow models use frozen InceptionV3 features (8x8x2048, reshaped to 64x
 
 ## Dataset
 
-- Flickr8k Hindi : 8,091 images with about 40,000 Hindi captions (5 per image).
+[Flickr8k Hindi]: 8,091 images with about 40,000 Hindi captions (5 per image).
 
-Notebooks	Split (train / val / test)
-TensorFlow models	70 / 15 / 15
-BLIP + LoRA	80 / 10 / 10
+| Notebooks | Split (train / val / test) |
+|---|---|
+| TensorFlow models | 70 / 15 / 15 |
+| BLIP + LoRA | 80 / 10 / 10 |
 
-The dataset and trained weights are not included in this repo.
+The dataset and trained weights are **not** included in this repo.
 
 ## Results
 
