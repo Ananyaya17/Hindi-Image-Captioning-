@@ -5,10 +5,10 @@ Benchmarking deep learning architectures for Hindi image captioning on Flickr8k 
 Paper shortlisted (top 25% of submissions) at ICDAM-2026 (Elsevier SSRN). Department of CSE, Indira Gandhi Delhi Technical University for Women. Supervisor: Dr. Jagrati Singh.
 
 ## Research Questions
-Q1. Do transformer-based architectures outperform CNN-LSTM for Hindi captioning?
-Q2. What is the quantitative impact of beam search on BLEU scores?
-Q3. Which architectural elements most influence performance in low-resource Hindi?
-Q4. What are the failure modes of BLIP + LoRA fine-tuned on Hindi?
+  Q1. Do transformer-based architectures outperform CNN-LSTM for Hindi captioning?
+  Q2. What is the quantitative impact of beam search on BLEU scores?
+  Q3. Which architectural elements most influence performance in low-resource Hindi?
+  Q4. What are the failure modes of BLIP + LoRA fine-tuned on Hindi?
 
 ## Repository Contents
 Each notebook is self-contained and runs on Google Colab (T4 GPU).
