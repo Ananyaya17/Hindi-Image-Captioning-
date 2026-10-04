@@ -73,7 +73,7 @@ Corpus BLEU on the Flickr8k Hindi test set.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ananyaya17/Hindi-Image-Captioning-/blob/main/Inception%20%2B%20LSTM.ipynb) Inception + LSTM
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ananyaya17/Hindi-Image-Captioning-/blob/main/a%20hybrid%20CNN%20%2B%20multi-head%20self-attention%20%2B%20Bahdanau%20attention%20model%20.ipynb) Hybrid (dual attention)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ananyaya17/Hindi-Image-Captioning-/blob/main/a%20hybrid%20CNN%20%2B%20multi-head%20self-attention%20%2B%20Bahdanau%20attention%20model.ipynb) Hybrid (dual attention)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ananyaya17/Hindi-Image-Captioning-/blob/main/InceptionV3%20%2B%20Multi-Head%20Attention%20%2B%20BiLSTM%20%2B%20Bahdanau%20Attention.ipynb) Hybrid + beam search
 
