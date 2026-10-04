@@ -63,20 +63,21 @@ Corpus BLEU on the Flickr8k Hindi test set.
 5. Beam width and n-gram blocking differ between notebooks. Check each notebook for exact values.
 
 ## How to Run
-1. Download Flickr8k Hindi and upload it as data.zip to the root of your Google Drive.
-2. Open a notebook in Colab and select Runtime, Change runtime type, T4 GPU.
+
+1. Download Flickr8k Hindi and upload it as `data.zip` to the root of your Google Drive.
+2. Open a notebook in Colab and select **Runtime, Change runtime type, T4 GPU**.
 3. Run the cells in order. InceptionV3 feature extraction takes about 12 to 15 minutes.
 4. For the BLIP notebook, run the install cell, restart the runtime, then continue from the second cell.
 
-Open In Colab Base / Attn / Trans
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ananyaya17/Hindi-Image-Captioning-/blob/main/base_attn_trans_comparison.ipynb) Base / Attn / Trans
 
-Open In Colab Inception + LSTM
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ananyaya17/Hindi-Image-Captioning-/blob/main/Inception%20%2B%20LSTM.ipynb) Inception + LSTM
 
-Open In Colab Hybrid (dual attention)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ananyaya17/Hindi-Image-Captioning-/blob/main/a%20hybrid%20CNN%20%2B%20multi-head%20self-attention%20%2B%20Bahdanau%20attention%20model%20.ipynb) Hybrid (dual attention)
 
-Open In Colab Hybrid + beam search
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ananyaya17/Hindi-Image-Captioning-/blob/main/InceptionV3%20%2B%20Multi-Head%20Attention%20%2B%20BiLSTM%20%2B%20Bahdanau%20Attention.ipynb) Hybrid + beam search
 
-Open In Colab BLIP + LoRA
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ananyaya17/Hindi-Image-Captioning-/blob/main/BLIP%20%2B%20LoRA%20%2B%20Hindi%20projection%20head.ipynb) BLIP + LoRA
 
 ## Tech Stack
 
