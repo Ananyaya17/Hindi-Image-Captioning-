@@ -6,8 +6,11 @@ Paper shortlisted (top 25% of submissions) at ICDAM-2026 (Elsevier SSRN). Depart
 
 ## Research Questions
   Q1. Do transformer-based architectures outperform CNN-LSTM for Hindi captioning?
+  
   Q2. What is the quantitative impact of beam search on BLEU scores?
+  
   Q3. Which architectural elements most influence performance in low-resource Hindi?
+  
   Q4. What are the failure modes of BLIP + LoRA fine-tuned on Hindi?
 
 ## Repository Contents
